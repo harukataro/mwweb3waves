@@ -16,7 +16,7 @@ class App extends React.Component {
                 /*...processing data */
             }).catch(error => {
                 console.error( error ); // displaying the result on the console
-                /*...processing errors */
+                /*...processing errors xx */
             })
         } else {
             alert("To Auth WavesKeeper should be installed.");
